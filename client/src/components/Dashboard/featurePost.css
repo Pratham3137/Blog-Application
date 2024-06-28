@@ -1,0 +1,36 @@
+/* .Card{
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+} */
+
+.model{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+/* #like{
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+.upload {
+    opacity: 0;
+    z-index: -1;
+    position: absolute;
+  }
